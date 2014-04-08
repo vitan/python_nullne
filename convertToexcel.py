@@ -1,4 +1,6 @@
 #!/usr/bin/env python2.7
+#author:    nullne
+#email:     co.pangolin@gmaill.com
 # handle file may looks like following(cols=3):
 # something     otherthing   anotherthing
 import xlwt
