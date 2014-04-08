@@ -1,4 +1,4 @@
 python_nullne
 =============
 
-my python script(may no use for others)
+my python script(may not useful for others)
